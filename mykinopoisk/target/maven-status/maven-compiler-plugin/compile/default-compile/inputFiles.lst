@@ -1,0 +1,14 @@
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\DAO\DAOMovie.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\entities\Actor.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\DAO\HibernateUtil.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\command\SearchMovieByTitle.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\business\ActionFactory.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\command\SaveToDB.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\command\EmptyCommand.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\command\ActionCommand.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\entities\Movie.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\DAO\DAOActor.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\filters\CharsetFilter.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\command\SaveToCSV.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\business\CommandEnum.java
+C:\Users\Фокин\Dropbox\mykinopoisk\src\main\java\business\Mkservlet.java
